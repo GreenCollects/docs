@@ -1,13 +1,13 @@
-> [Home](../../README.md) > [Documentation](../README.md)
+> [Documentation](../README.md)
 
 # Setup up env
-Install venv :
+Installation de l'envionnement virtuel python :
 > foo@app/back$> python3 -m venv env
 > foo@app/back$> source env/bin/activate
 > foo@app/back$> pip install -r env/requirements.txt
 
-Activate virtual env :
+Activation de l'envionnement :
 > foo@app/back$> source env/bin/activate
 
-Desactivate virtual env : 
+Desactivation de l'envionnement : 
 > foo@app/back$> deactivate
