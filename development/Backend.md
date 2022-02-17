@@ -11,3 +11,11 @@ Activation de l'envionnement :
 
 Desactivation de l'envionnement : 
 > foo@app/back$> deactivate
+
+# Serveur python
+
+Lancement du serveur :
+> python manage.py runserver
+> python manage.py runserver 8080
+> python manage.py runserver 0:8080 # 0 pour le raccourci 0.0.0.0
+
