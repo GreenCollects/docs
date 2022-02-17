@@ -1,3 +1,7 @@
 > [Documentation](../README.md)
 
-# Condrage du projet
+# Conception
+
+## Modèle de données
+
+![data_model](./assets/data_model.jpg)

@@ -4,15 +4,15 @@
 
 ## Spécification
 
-Pour encourager les utilisteurs a ne pas tous se déplacer, noous souhaitons mettre en place un système de *royalties* afin de soutenir l'utilisateur qui se déplacerai vers les points de collectes.
+Pour encourager les utilisteurs à ne pas tous se déplacer, nous souhaitons mettre en place un système de *royalties* afin de soutenir l'utilisateur qui se déplacerait vers les points de collectes.
 
-Afin de faciliter le déplacement des utilisateurs vers les points de collecte et les collectes en praticuliers, nous souhaitons mettre en place un système qui ouvrirait automatiquement le point dans l'application GPS par défault du support.
+Afin de faciliter le déplacement des utilisateurs vers les points de collecte et les collectes entre particuliers, nous souhaitons mettre en place un système qui ouvrirait automatiquement le point dans l'application GPS par défaut du support.
 
-Les points de collecte serait collaboratif c.a.d que ce sont les utilisateurs qui propose un nouveau point de collecte découvert.
+Les points de collecte seraient collaboratif c.a.d que ce sont les utilisateurs qui proposent un nouveau point de collecte découvert.
 
 ### Technologies
 
-Cette application serait accessible sur smartphone. En effet nous souhaitons palier à un probléme de mobilité afin de pousser les utilisateurs à mieux trier mais cela implique un déplacement.
+Cette application serait accessible sur smartphone. En effet nous souhaitons pallier à un probléme de mobilité afin de pousser les utilisateurs à mieux trier impliquant de potentiels déplacements.
 
 Finalement : 
 - Frontend : ReactNative, technoligie web adapter au smartphone car cela permet d'utiliser les fonctionnalités natives de ces dispositifs.
@@ -21,7 +21,7 @@ Finalement :
 
 Autre technologie : 
 - Git : versionning de code source
-- Docker : pour faciliter la compatibilité de certains outil entre différents système
+- Docker : pour faciliter la compatibilité de certains outil entre différents système (base de donnée) et déploiement de l'application. 
 
 ## Fonctionnalité
 
