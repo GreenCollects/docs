@@ -18,8 +18,11 @@ Desactivation de l'envionnement :
 
 Lancement du serveur :
 > python manage.py runserver
+
 > python manage.py runserver 8080
-> python manage.py runserver 0:8080 # 0 pour le raccourci 0.0.0.0
+
+En utilisant 0.0.0.0 - 0 pour le raccourci 0.0.0.0 - cela permet d'ouvrir un port de votre machine pour que le serveur soit accéssible depuis votre réseau privé (192.168.0.X)
+> python manage.py runserver 0:8080
 
 ## Super user
 Username: admin
