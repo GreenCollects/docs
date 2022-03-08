@@ -33,6 +33,12 @@ Password: admin
 Réintialiser complètement la base de donnée : 
 > python manage.py flush
 
+Mise en place du modèle : 
+> python manage.py migrate
+
+Insertion de fausses données : 
+> python manage.py insert_fakedata
+
 ## Authentication
 Créer un Token d'identification : 
 > python manage.py drf_create_token <username>
