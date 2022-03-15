@@ -42,3 +42,7 @@ Insertion de fausses données :
 ## Authentication
 Créer un Token d'identification : 
 > python manage.py drf_create_token <username>
+
+## Deploiement
+Vérifier si l'application est prête au déploiement (notemment pour la sécurité) :
+> python manage.py check --deploy
