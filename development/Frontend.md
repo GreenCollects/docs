@@ -7,3 +7,8 @@ Télécharger Expo GO sur le smartphone (Android ou iOS)
 Le smartphone doit être sur la même réseau que la machine. 
 
 Scanner le QR Code afficher dans le terminal avec votre
+
+# Exporter l'application pour smartphone
+> expo eject
+
+Choisir comme nom de package : com.green.collect
