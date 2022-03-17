@@ -28,7 +28,7 @@
 
 # Architecture technique
 
-  ![Architecture technique](https://github.com/GreenCollects/docs/new/main/report/pictures/architecture.png)
+  ![Architecture technique](https://github.com/GreenCollects/docs/blob/main/report/pictures/architecture.png)
 
   Par soucis de mobilité, l’application pour les utilisateurs est une application mobile. Ce qui n’est pas le cas de l’application dédiée à l’administration. En effet les administrateurs n’ont pas de problématique de mobilité. Ainsi il est plus simple pour eux d’y accéder par une interface web traditionnelle par ordinateur.
 
@@ -48,9 +48,9 @@
 
   Lorsque l’on arrive sur l’application, on accède directement à une carte où l’on peut voir les différents points de collectes recensés autour de la position de l’utilisateur. L’utilisateur peut alors cliquer sur un des points de collecte et voir quels déchets peuvent être déposés à celui-ci.
 
-  ![Affichage des marqueurs](https://github.com/GreenCollects/docs/new/main/report/pictures/marker.png)
+  ![Affichage des marqueurs](https://github.com/GreenCollects/docs/blob/main/report/pictures/marker.png)
   
-  ![Détails d'un point](https://github.com/GreenCollects/docs/new/main/report/pictures/carte.png)
+  ![Détails d'un point](https://github.com/GreenCollects/docs/blob/main/report/pictures/carte.png)
   
 ## Filtrer des points de collecte
 
@@ -58,35 +58,35 @@
 
   De plus, il est également possible de filtrer les points de collecte en fonction d’un rayon afin de n’afficher seulement ceux présent dans ce rayon.
 
-  ![Filtrage des points par déchet](https://github.com/GreenCollects/docs/new/main/report/pictures/dechet.png)
+  ![Filtrage des points par déchet](https://github.com/GreenCollects/docs/blob/main/report/pictures/dechet.png)
   
-  ![Filtrage des déchets par kilomètre](https://github.com/GreenCollects/docs/new/main/report/pictures/filtres.png)
+  ![Filtrage des déchets par kilomètre](https://github.com/GreenCollects/docs/blob/main/report/pictures/filtres.png)
 
 ## Proposer un nouveau point de collecte
 
   L’ajout de points de collecte est entièrement communautaire. Il est donc possible de proposer un nouveau point de collecte en précisant son emplacement ainsi que les déchets acceptés.  
 
-  ![Sélection d'une position sur la carte](https://github.com/GreenCollects/docs/new/main/report/pictures/point.png)
+  ![Sélection d'une position sur la carte](https://github.com/GreenCollects/docs/blob/main/report/pictures/point.png)
  
 ## Noter un point de collecte
 
   Afin de rendre notre système plus fiable, chaque utilisateur peut noter un point de collecte afin de confirmer sa présence et les informations liées à celui-ci, ou au contraire signaler qu’il ne serait pas conforme. 
   
-  ![Évaluation d'un point](https://github.com/GreenCollects/docs/new/main/report/pictures/carte.png)
+  ![Évaluation d'un point](https://github.com/GreenCollects/docs/blob/main/report/pictures/carte.png)
   
 ## Créer une collecte
 
   Une autre fonctionnalité de notre application est de pouvoir créer des collectes entre particuliers afin qu'un seul véhicule n'ait à se déplacer vers le point assigné à la collecte. La personne organisatrice de la collecte n’a alors qu’à renseigner la date, les déchets à récolter ainsi que le lieu de la collecte.
   
-  ![Organiser une collecte](https://github.com/GreenCollects/docs/new/main/report/pictures/collecte.png)
+  ![Organiser une collecte](https://github.com/GreenCollects/docs/blob/main/report/pictures/collecte.png)
   
 ## Créer un compte et modifier les informations utilisateurs
 
   Afin d’accéder à certaines fonctionnalités (comme la création d’une collecte par exemple), l’utilisateur doit posséder un compte et être connecté. Nous avons donc implémenté les fonctionnalités de création et de gestion d’un compte. Un utilisateur peut donc s’inscrire, se connecter, se déconnecter, mais aussi modifier ses informations tels que son nom d’utilisateur, son email, son prénom ou encore son nom.
   
-  ![Formulaire de connexion](https://github.com/GreenCollects/docs/new/main/report/pictures/connexion.png)
-  ![Formulaire d'inscription](https://github.com/GreenCollects/docs/new/main/report/pictures/inscription.png)
-  ![Détails d'un compte](https://github.com/GreenCollects/docs/new/main/report/pictures/compte.png)
+  ![Formulaire de connexion](https://github.com/GreenCollects/docs/blob/main/report/pictures/connexion.png)
+  ![Formulaire d'inscription](https://github.com/GreenCollects/docs/blob/main/report/pictures/inscription.png)
+  ![Détails d'un compte](https://github.com/GreenCollects/docs/blob/main/report/pictures/compte.png)
  
 # Gestion de projet (méthode, planning prévisionnel et effectif, gestion des risques, rôles des membres ...)
 
@@ -96,15 +96,15 @@
 
   Concernant la gestion de projet, nous avons utilisé différents outils. Tout d’abord, nous avons utilisé Github et plus précisément l’outil Kanban qui nous a permis d’organiser notre projet en tâches et sous tâches. Chaque personne du groupe peut ensuite s’assigner une tâche, et les classer suivant leur avancée : A faire - En cours - Fini. Cet outil nous a aidé à suivre l'avancée de chaque personne du groupe ainsi que l’avancée globale du projet, mais aussi à savoir sur quoi travaillait chaque personne du groupe.
   
-  ![Tableau Kanban](https://github.com/GreenCollects/docs/new/main/report/pictures/kanban.png)
+  ![Tableau Kanban](https://github.com/GreenCollects/docs/blob/main/report/pictures/kanban.png)
   
   Nous avons également utilisé Discord comme deuxième outil de gestion de projet. Cet outil nous a permis de communiquer entre nous via des salons vocaux et textuels. Nous pouvions également facilement nous retrouver en partageant nos écrans si nous avions des difficultés. Cet outil a grandement facilité le travail collectif. 
 
-  ![Image de Discord](https://github.com/GreenCollects/docs/new/main/report/pictures/discord.png)
+  ![Image de Discord](https://github.com/GreenCollects/docs/blob/main/report/pictures/discord.png)
   
   Nous avons pu relier ces deux outils pour recevoir certaines notifications de Github sur Discord lorsque des tâches étaient finies et en attente de revue par d’autres personnes du groupe.
 
-  ![Lien entre Discord et Github](https://github.com/GreenCollects/docs/new/main/report/pictures/github.png)
+  ![Lien entre Discord et Github](https://github.com/GreenCollects/docs/blob/main/report/pictures/github.png)
 
   Enfin, nous avons utilisé Google Drive pour collaborer et stocker facilement des documents. 
 
