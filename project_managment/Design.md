@@ -4,4 +4,4 @@
 
 ## Modèle de données
 
-![data_model](./assets/data_model.jpg)
+![data_model](./assets/database_model.jpg)
