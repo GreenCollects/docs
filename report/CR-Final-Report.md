@@ -126,8 +126,6 @@
 ### Risques
 
   A partir des contraintes exprimées précédemment, certains risques ont été définis. Nous avons ainsi pu établir une matrice de criticité qui permet de hiérarchiser les risques suivants: leur probabilité d’apparition et la criticité de leurs conséquences. 
-
-  En annexe, vous pourrez retrouver pour chaque risque, les mesures préventives et correctives mises en place.
   
   | Probabilité / Gravité | Faible | Moyenne | Grave | Très grave |
   | --- | --- | --- | --- | --- |
